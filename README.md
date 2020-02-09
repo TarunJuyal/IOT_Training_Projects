@@ -10,3 +10,6 @@ Blynk App creates widgets so as to control the Node MCU using our smartphones ea
 
 ![blynkView](https://user-images.githubusercontent.com/46627661/74102089-54d1bb80-4b66-11ea-8921-43e2262a4274.jpg)
 Slots showing in Blynk App
+
+![hardware](https://user-images.githubusercontent.com/46627661/74102063-0d4b2f80-4b66-11ea-9a13-bcef3e6acb6c.jpg)
+Hardware Part
